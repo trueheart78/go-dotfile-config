@@ -1,0 +1,8 @@
+{
+  "redis_url": "https://url.to.redis:1234",
+  "redis_password": "password",
+  "redis_channels": {
+    "emergency": "",
+    "nonemergent": ""
+  }
+}
