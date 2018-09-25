@@ -11,6 +11,8 @@ import (
 	"github.com/mitchellh/go-homedir"
 )
 
+const VERSION = "0.0.1"
+
 var configFilename = ".go-call-me.json"
 
 // Config is the object that holds the json values
